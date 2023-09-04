@@ -10,12 +10,12 @@
     import Math from './slides/examples/Math.svelte';
     import Media from './slides/examples/Media.svelte';
     import Transitions from './slides/examples/Transitions.svelte';
+    import Vid from './slides/vid.svelte';
 
-    const partner = ['Svelte', 'Reveal.js'];
 </script>
 
 <Title/>
-<Love {partner}/>
+<Vid/>
 <GettingStarted/>
 <AutoAnimate/>
 <Backgrounds/>
