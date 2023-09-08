@@ -2,12 +2,12 @@
   import D3WordCloud from "../lib/D3WordCloud.svelte";
   import Slide from "../lib/Slide.svelte";
   let words = [
-    { text: "contianer", count: Math.floor(Math.random() * 50 + 25) },
+    { text: "container", count: Math.floor(Math.random() * 50 + 25) },
     { text: "runtime", count: Math.floor(Math.random() * 50 + 25) },
     { text: "virtualisation", count: Math.floor(Math.random() * 50 + 25) },
-    { text: "virutal machien", count: Math.floor(Math.random() * 50 + 25) },
+    { text: "virtual machine", count: Math.floor(Math.random() * 50 + 25) },
     { text: "cloud optimised", count: Math.floor(Math.random() * 50 + 25) },
-    { text: "reproducable", count: Math.floor(Math.random() * 50 + 25) },
+    { text: "reproducible", count: Math.floor(Math.random() * 50 + 25) },
     { text: "hypervisor", count: Math.floor(Math.random() * 50 + 25) },
     { text: "marine themed", count: Math.floor(Math.random() * 50 + 25) },
     { text: "free", count: Math.floor(Math.random() * 50 + 25) },

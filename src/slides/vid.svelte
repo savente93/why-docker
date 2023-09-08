@@ -17,7 +17,7 @@ let scheduleFade = () => {
 
 <Slide>
 	<track kind="captions">
-  <video on:play={scheduleFade} src="assets/Python-is-a-normal-language.mp4" controls >
+  <video on:play={scheduleFade} src="Python-is-a-normal-language.mp4" controls >
 	<track kind="captions">
 	</video>
 

@@ -9,7 +9,6 @@ RUN npm install
 
 COPY ./src ./src
 COPY ./public ./public
-COPY ./assets ./assets 
 COPY ./index.html ./index.html
 
 RUN npm run build
