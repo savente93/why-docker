@@ -17,6 +17,8 @@
     "vite": "^3.0.0"
   },
   "dependencies": {
-    "reveal.js": "^4.3.1"
+    "reveal.js": "^4.3.1",
+    "svelte-d3-cloud": "^0.0.2",
+    "wordcloud": "^1.2.2"
   }
 }
