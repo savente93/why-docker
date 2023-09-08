@@ -20,7 +20,7 @@
  export let bgInteractive;
  // Transitions
 </script>
-<section
+<section style="--r-heading-text-transform: none"
 		data-background-color={bgColor}
 													data-background-gradient={bgGradient}
 		data-background-image={bgImage}

@@ -3,5 +3,5 @@
 </script>
 
 <Slide>
-  <h2>Questions?</h2>
+  <h2>Thank you!</h2>
 </Slide>
